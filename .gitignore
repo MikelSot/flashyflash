@@ -26,7 +26,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
-.env*.local
+.env.example
 
 # vercel
 .vercel
@@ -39,7 +39,7 @@ yarn-error.log*
 /.vscode
 
 # local env files
-.env.local
+.env.example
 .env.development.local
 .env.production.local
 
